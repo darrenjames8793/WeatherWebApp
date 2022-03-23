@@ -250,7 +250,19 @@ margin-bottom: 10rem;
         font-size: 5rem;
         margin-top: 17px;
     }
-   
+    .errimg img{
+        width: 70rem;
+        
+     }
+     .main_header_left h1{
+         text-align: center;
+     }
+    
+}
+
+.errimg img{
+   width: 60rem;
+   height: 30rem;
 }
 /* footer code  */
 
@@ -286,7 +298,3 @@ footer p{
     height: 500px;
 }
 
-/* .jamesbg img{
-    height: 400px;
-    width: 800px;
-} */
